@@ -2,6 +2,13 @@
     max-height: 50px;
 }
 
+.slider-below_max-height{
+    max-height: 234px;
+}
+
+
+
+
 /*
 snippet from Animate.css - zoomIn effect
 */
