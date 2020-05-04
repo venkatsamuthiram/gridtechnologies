@@ -605,7 +605,7 @@ img {
 #mu-features {
   display: inline;
   float: left;
-  padding: 100px 0;
+  padding: 10px 0;
   width: 100%;
 }
 #mu-features .mu-features-area {
@@ -670,7 +670,7 @@ img {
  LATEST COURSES SECTION
 ====================*/
 #mu-latest-courses {
-  background-color: #333;
+  background-color: #03989e;
   display: inline;
   float: left;
   padding: 100px 0;
