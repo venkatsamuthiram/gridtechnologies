@@ -31,7 +31,7 @@ snippet from Animate.css - zoomIn effect
 
 .panel{
     border: 0px;
-    border-bottom: 1px solid #30bb64;
+    border-bottom: 1px solid #03989e;
 }
 .panel-group .panel+.panel{
     margin-top: 0px;
@@ -45,10 +45,10 @@ snippet from Animate.css - zoomIn effect
     padding: 25px 15px;
 }
 .panel-custom>.panel-heading{
-    background-color: #38cc70;
+    background-color: #03989e;
 }
 .panel-group .panel:last-child{
-    border-bottom: 5px solid #2ba659;
+    border-bottom: 5px solid #03989e;
 }
 
 panel-collapse .collapse.in{

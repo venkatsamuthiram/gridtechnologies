@@ -423,7 +423,7 @@ img {
   width: 100%;
 }
 #mu-service .mu-service-area .mu-service-single {
-  background-color: #01bafd;
+  background-color: #03989e;
   color: #fff;
   display: inline;
   float: left;
@@ -432,10 +432,10 @@ img {
   width: 33.33%;
 }
 #mu-service .mu-service-area .mu-service-single:nth-child(2) {
-  background-color: #2ecc71;
+  background-color: #545454;
 }
 #mu-service .mu-service-area .mu-service-single:nth-child(3) {
-  background-color: #45a0de;
+  background-color: #03989e;
 }
 #mu-service .mu-service-area .mu-service-single span {
   font-size: 30px;
@@ -722,6 +722,7 @@ img {
 }
 .mu-latest-course-single .mu-latest-course-img a img {
   width: 100%;
+  max-height: 230px;
 }
 .mu-latest-course-single .mu-latest-course-img .mu-latest-course-imgcaption {
   background-color: #f8f8f8;
@@ -819,7 +820,7 @@ img {
   width: 100%;
 }
 #mu-our-teacher .mu-our-teacher-area .mu-our-teacher-content .mu-our-teacher-single:hover .mu-our-teacher-img .mu-our-teacher-social {
-  opacity: 1;
+  opacity: 0.5;
 }
 #mu-our-teacher .mu-our-teacher-area .mu-our-teacher-content .mu-our-teacher-single:hover .mu-our-teacher-img .mu-our-teacher-social a {
   -moz-transform: translateY(0%);
@@ -2184,12 +2185,12 @@ img {
   }
 
   .navbar-toggle {
-    background-color: #01bafd;
+    background-color: #03989e;
     border-radius: 0;
   }
 
   .navbar-default .navbar-toggle {
-    border-color: #01bafd;
+    border-color: #03989e;
   }
 
   .navbar-default .navbar-toggle .icon-bar {
@@ -2197,7 +2198,7 @@ img {
   }
 
   .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
-    background-color: #01bafd;
+    background-color: #03989e;
   }
 
   #mu-menu .navbar-default .navbar-nav li > a {
